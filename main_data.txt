@@ -1,0 +1,383 @@
+[<div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/28/28c61b03b233812e47d75bd8d2c666094ad457de.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/profiles/76561198157199314/" target="_blank">xNoblexFreezex - *Trading*</a> deposited 10 skins (valued at $41.81).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/62/62bc414c3f00a8080f45e0c6d8f2b749fbc410ef.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/stanzou/" target="_blank">GOD</a> deposited 10 skins (valued at $19.03).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/69/69fea7d2187e60a044c6e4ab494b3555ce258764.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/DfieldMarkSmurfs/" target="_blank">TheBigD</a> deposited 10 skins (valued at $840.22).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/35/35ea068a46a3254cc508ae6fc58a0d490b031b07.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/profiles/76561197991763673/" target="_blank">HellishAngel</a> deposited 10 skins (valued at $942.87).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/e2/e2b07f5c8089b8fb653b9c2045153d040fdee216.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/spixelzz/" target="_blank">spix</a> deposited 2 skins (valued at $67.79).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/93/93b2b3ba4767a6cc60af13a2da69834ae97085e0.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/564651321654987/" target="_blank">Austerda❤csgojackpot</a> deposited 10 skins (valued at $386.63).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ba/bad241e24f1cf1151fce0f1ed4a8df5f985daf07.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/profiles/76561198121362688/" target="_blank">Senna @little.bitty.shrimp.dips</a> deposited 10 skins (valued at $11.67).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/88/8824de1e180fd9e58e93d16975c27a246eadfa56.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/SkillzGiveKillz/" target="_blank">SGK</a> deposited 10 skins (valued at $18.16).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/12/128e2e733ac18b0d6abfbcd328df516feacd07e6.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/Deimosh/" target="_blank">Deimosh</a> deposited 1 skin (valued at $60.66).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/de/de1e64a0eedd50f6cf4c796c0853c5d1ed2eb776.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/Ryzaaaa/" target="_blank">Ryzaaaa</a> deposited 1 skin (valued at $13.01).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity system-message set-round-hash">
+<div class="text"><span>Round hash is ed583c79bc572bb212408b0ff674c63f</span></div>
+</div>
+<div class="activity new-round">
+<div class="text"><span>NEW ROUND</span></div>
+</div>
+<div class="activity user-deposit winner">
+<div class="round-checksum activity">
+<div class="text"><span>Winning ticket could be found at 24.26943404134363% with the secret "115bf1552e" <a href="/provably-fair">(what is this?)</a>.</span></div>
+</div>
+<span class="label-winner">WINNER</span>
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c4/c406ddd72141255c6a6d1c02eadda771168b8552.jpg"/>
+<div class="text winner">
+<a href="http://steamcommunity.com/id/Pol4ris/" target="_blank">Pol2k</a> won the jackpot valued at $1562.60
+            </div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fb/fb6bf926ed5a7548f60b6a735f64031b4679cc70.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/Jarrard/" target="_blank">Dr. Kern</a> deposited 10 skins (valued at $11.35).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7d/7dfe809beca4e42a1bc18806aaae8d377012542a.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/profiles/76561197981101590/" target="_blank">JanetYellen</a> deposited 5 skins (valued at $13.75).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d8/d84d3f638404f88d8950e96f12c4ccce1e88f375.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/profiles/76561198118433026/" target="_blank">JustGodly</a> deposited 3 skins (valued at $30.33).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/522be490f04ae0f308095163b9bc6ce1a7c3bf34.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/Ambasadorka/" target="_blank">Ambassador</a> deposited 10 skins (valued at $14.63).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/55/55642e0e9baf53819f5d5e02c25d7a23acdbfd90.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/rkrkrk/" target="_blank">rk</a> deposited 10 skins (valued at $408.61).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/4b/4b41ef4cb331a3f3a225e865e5aa13633c81274a.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/TheRealSlam/" target="_blank">Slam</a> deposited 8 skins (valued at $10.31).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c4/c406ddd72141255c6a6d1c02eadda771168b8552.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/Pol4ris/" target="_blank">Pol2k</a> deposited 10 skins (valued at $1079.36).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/be/bea87463dda7f97107f312d8f6cceea34cd021ef.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/profiles/76561198035975414/" target="_blank">anjo</a> deposited 4 skins (valued at $10.74).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/04/04b30972885ae212c079d7757ee6f904a06c30e0.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/profiles/76561198124948964/" target="_blank">Kappasaur123</a> deposited 3 skins (valued at $21.51).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/32/322483ba00ad4638b456534ddb45eac2c306329e.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/profiles/76561198089670096/" target="_blank">Mäksy Selling skins&amp;knifes :3</a> deposited 1 skin (valued at $44.27).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity system-message set-round-hash">
+<div class="text"><span>Round hash is 3fce1f6fbd89dd6eefb75e28ac771ea4</span></div>
+</div>
+<div class="activity new-round">
+<div class="text"><span>NEW ROUND</span></div>
+</div>
+<div class="activity user-deposit winner">
+<div class="round-checksum activity">
+<div class="text"><span>Winning ticket could be found at 3.482779790647328% with the secret "13e251e2bd" <a href="/provably-fair">(what is this?)</a>.</span></div>
+</div>
+<span class="label-winner">WINNER</span>
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/21/21f29c8aab6ab8a815af7025d2e01e9830fc2616.jpg"/>
+<div class="text winner">
+<a href="http://steamcommunity.com/id/Patrick-trading/" target="_blank">The Chemist</a> won the jackpot valued at $1491.81
+            </div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/da/dacaa892e11006df20a0a3bdd87e21a5af85c13f.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/BruiN508/" target="_blank">Twitch.tv/BruiN_508</a> deposited 10 skins (valued at $426.20).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7d/7dfe809beca4e42a1bc18806aaae8d377012542a.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/profiles/76561197981101590/" target="_blank">JanetYellen</a> deposited 10 skins (valued at $57.08).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3b/3b7fe238c0346bd9b841b6267b3d0de672a1bc10.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/johnnyko-1H/" target="_blank">johnnyko-1H</a> deposited 2 skins (valued at $395.05).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/47/474aa7014eb36f801cf0b549cfa7475fa979fc43.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/vBz1H/" target="_blank">HEARDITS POPPIN TIME TO GETRIGHT</a> deposited 10 skins (valued at $415.84).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/db/dbc629dab188d89fac30faae1461fdf61e080caa.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/JDavis1x/" target="_blank">definitely sniping my</a> deposited 10 skins (valued at $22.95).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/21/21f29c8aab6ab8a815af7025d2e01e9830fc2616.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/Patrick-trading/" target="_blank">The Chemist</a> deposited 10 skins (valued at $238.80).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/2f/2f90c0b0d7ba61c66451624c955905a2648e88ca.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/inf_cted/" target="_blank">||FLOPPY|| [SITH]</a> deposited 7 skins (valued at $14.42).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity system-message set-round-hash">
+<div class="text"><span>Round hash is 33fae19b4ffa2407ea5e2e02863d944c</span></div>
+</div>
+<div class="activity new-round">
+<div class="text"><span>NEW ROUND</span></div>
+</div>
+<div class="activity user-deposit winner">
+<div class="round-checksum activity">
+<div class="text"><span>Winning ticket could be found at 29.749376443214715% with the secret "10e4d1f730" <a href="/provably-fair">(what is this?)</a>.</span></div>
+</div>
+<span class="label-winner">WINNER</span>
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/5c/5c6fe09cd628cd292e06af98444fd10ffbcd8a76.jpg"/>
+<div class="text winner">
+<a href="http://steamcommunity.com/id/flypants/" target="_blank">FlyPanTs</a> won the jackpot valued at $176.36
+            </div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/62/62bc414c3f00a8080f45e0c6d8f2b749fbc410ef.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/stanzou/" target="_blank">GOD</a> deposited 10 skins (valued at $23.59).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9a/9af29ed5031efb6a3552201976b5d19272bb6b58.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/kaaizen/" target="_blank">kaizen -sfp0t</a> deposited 10 skins (valued at $29.36).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d0/d08a5000771d19d1fe126822791096a8925bf754.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/finith/" target="_blank">finith2</a> deposited 6 skins (valued at $36.03).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/5c/5c6fe09cd628cd292e06af98444fd10ffbcd8a76.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/flypants/" target="_blank">FlyPanTs</a> deposited 10 skins (valued at $13.60).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/83/834536d79c38d9e7e772d0b27839db421e120fcd.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/ajmdnsk/" target="_blank">Sketchy</a> deposited 10 skins (valued at $33.10).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/28/28c61b03b233812e47d75bd8d2c666094ad457de.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/profiles/76561198157199314/" target="_blank">xNoblexFreezex - *Trading*</a> deposited 10 skins (valued at $24.64).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/1e/1e4022e57c2552380debc8770a54cf43ed6911dc.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/senz01/" target="_blank">senZ</a> deposited 3 skins (valued at $12.02).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/f4/f47859bcb303c92396e9e896100f134860d99425.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/10281998/" target="_blank">Dashie</a> deposited 3 skins (valued at $13.30).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity system-message set-round-hash">
+<div class="text"><span>Round hash is 7748f731d4545b0cef7322cd71404acc</span></div>
+</div>
+<div class="activity new-round">
+<div class="text"><span>NEW ROUND</span></div>
+</div>
+<div class="activity user-deposit winner">
+<div class="round-checksum activity">
+<div class="text"><span>Winning ticket could be found at 1.9914695527404547% with the secret "1f6bd1f1a3" <a href="/provably-fair">(what is this?)</a>.</span></div>
+</div>
+<span class="label-winner">WINNER</span>
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/94/9405a6d452bccc98098eb20259069f9527277164.jpg"/>
+<div class="text winner">
+<a href="http://steamcommunity.com/profiles/76561197978777468/" target="_blank">twitch.tv/shaffeR2369</a> won the jackpot valued at $1097.49
+            </div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/93/93b2b3ba4767a6cc60af13a2da69834ae97085e0.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/564651321654987/" target="_blank">Austerda❤csgojackpot</a> deposited 10 skins (valued at $49.88).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d0/d0b615f0f02b569355e80a433b327eb56de389a4.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/nicknoble/" target="_blank">n0ble</a> deposited 4 skins (valued at $11.00).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/6c/6c010a75ebb31666723d357a52441ac6bd7cc958.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/theoriginalweed/" target="_blank">Weeds</a> deposited 2 skins (valued at $362.72).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/69/69fea7d2187e60a044c6e4ab494b3555ce258764.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/DfieldMarkSmurfs/" target="_blank">TheBigD</a> deposited 10 skins (valued at $584.56).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7c/7c6bc9907d0743c74a87d846c7eb6ecf668a230a.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/bertbox19/" target="_blank">✪ Bojack</a> deposited 6 skins (valued at $10.91).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/cb/cb5d516505be7e788b05f56761cf6c282767e285.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/profiles/76561198130961332/" target="_blank">YourMouthMyGLOCK</a> deposited 1 skin (valued at $56.86).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9f/9fb363ffc49a9d4f1ab9a7b5c8c0426004b6bdee.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/Noyouzz/" target="_blank">Kody</a> deposited 10 skins (valued at $18.90).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/94/9405a6d452bccc98098eb20259069f9527277164.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/profiles/76561197978777468/" target="_blank">twitch.tv/shaffeR2369</a> deposited 6 skins (valued at $43.91).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/522be490f04ae0f308095163b9bc6ce1a7c3bf34.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/Ambasadorka/" target="_blank">Ambassador</a> deposited 3 skins (valued at $16.53).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity system-message set-round-hash">
+<div class="text"><span>Round hash is d89340525ae8c11ad3ead9b134e2af09</span></div>
+</div>
+<div class="activity new-round">
+<div class="text"><span>NEW ROUND</span></div>
+</div>
+<div class="activity user-deposit winner">
+<div class="round-checksum activity">
+<div class="text"><span>Winning ticket could be found at 64.0745758311823% with the secret "1bdc61f7b0" <a href="/provably-fair">(what is this?)</a>.</span></div>
+</div>
+<span class="label-winner">WINNER</span>
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3f/3fe19b635aa94942e3acf18d20ecb66e16d7f65b.jpg"/>
+<div class="text winner">
+<a href="http://steamcommunity.com/id/76561197980816273/" target="_blank">山ROG™300山</a> won the jackpot valued at $6651.43
+            </div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3f/3fe19b635aa94942e3acf18d20ecb66e16d7f65b.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/76561197980816273/" target="_blank">山ROG™300山</a> deposited 10 skins (valued at $5251.86).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0b/0bfd7d50f99b306783032701bcc8ba3675aaecab.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/profiles/76561198034602610/" target="_blank">bfgz</a> deposited 10 skins (valued at $16.12).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7d/7dfe809beca4e42a1bc18806aaae8d377012542a.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/profiles/76561197981101590/" target="_blank">JanetYellen</a> deposited 4 skins (valued at $16.99).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/profiles/76561198118788490/" target="_blank">FriedDuck</a> deposited 4 skins (valued at $10.40).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/1a/1a0ba597accddace1fc799fb34e5a58fb699d76f.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/profiles/76561198143606093/" target="_blank">buRning</a> deposited 3 skins (valued at $321.09).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d0/d08a5000771d19d1fe126822791096a8925bf754.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/finith/" target="_blank">finith2</a> deposited 4 skins (valued at $44.38).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/62/62bc414c3f00a8080f45e0c6d8f2b749fbc410ef.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/stanzou/" target="_blank">GOD</a> deposited 10 skins (valued at $1232.08).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/28/28c61b03b233812e47d75bd8d2c666094ad457de.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/profiles/76561198157199314/" target="_blank">xNoblexFreezex - *Trading*</a> deposited 10 skins (valued at $79.31).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a6/a68055898aadd99aecb23c821cc9295e7c49ece5.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/1337BDR/" target="_blank">Vergil[*]</a> deposited 4 skins (valued at $17.49).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/5b/5b69063b4f72deb3515a8a38712d446b26251914.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/profiles/76561198088446272/" target="_blank">✪ rc</a> deposited 3 skins (valued at $11.78).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity system-message set-round-hash">
+<div class="text"><span>Round hash is f7f5efefe8c3cf4af0f031903c956aa2</span></div>
+</div>
+<div class="activity new-round">
+<div class="text"><span>NEW ROUND</span></div>
+</div>
+<div class="activity user-deposit winner">
+<div class="round-checksum activity">
+<div class="text"><span>Winning ticket could be found at 37.23292942158878% with the secret "136df1c875" <a href="/provably-fair">(what is this?)</a>.</span></div>
+</div>
+<span class="label-winner">WINNER</span>
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/49/49acd8db88e0d49a16f1cf24a35456fb4e1fbe86.jpg"/>
+<div class="text winner">
+<a href="http://steamcommunity.com/id/fatalxmts/" target="_blank">Blackjackpot and Hookers</a> won the jackpot valued at $1024.99
+            </div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/91/91c4e4f60149439e9050234f9ef2a51c521c9f41.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/TheBlackAaron/" target="_blank">aMt</a> deposited 10 skins (valued at $48.35).</div>
+</div>
+</div>, <div style="opacity: 1;">
+<div class="activity user-deposit">
+<img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/69/69fea7d2187e60a044c6e4ab494b3555ce258764.jpg"/>
+<div class="text"><a href="http://steamcommunity.com/id/DfieldMarkSmurfs/" target="_blank">TheBigD</a> deposited 10 skins (valued at $101.92).</div>
+</div>
+</div>]

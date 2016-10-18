@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>CS:GO Jackpot</title>
+<meta content="text/html; charset=utf-8" http-equiv="content-type" />
+ 
+<meta content="CS:GO Jackpot : Win CS:GO Skins" name="og:title" />
+<meta content="A website where Players deposit skins, once a pre-defined threshold is reached a depositer will be choosen, with odds based on the values of it's deposited skin, and awarded with ALL the skins in the pool." name="og:description" />
+<meta content="/assets/icons/android-icon-192x192.png" name="og:image" />
+<meta content="A website where Players deposit skins, once a pre-defined threshold is reached a depositer will be choosen, with odds based on the values of it's deposited skin, and awarded with ALL the skins in the pool." name="description" />
+<meta content="csgojackpot, CS:GO, counter-strike global offensive, csgo, cs:go skins, cs:go skin jackpot, cs:go skins jackpot, win cs:go skins, cs:go skins giveaway, cs:go skin betting, cs:go skin gambling" name="keywords" />
+<script async="" data-rocketsrc="//www.google-analytics.com/analytics.js" data-rocketoptimized="true"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+//&lt;![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"13b11af06f1d9db12a2d7863b959eab6",petok:"fa370ee64ad2677483b860a9c57903ffc42928f6-1433713161-1800",zone:"csgojackpot.com",rocket:"a",apps:{"ga_key":{"ua":"UA-59770024-1","ga_bs":"2"},"abetterbrowser":{"ie":"6","opera":"1","chrome":null,"safari":null,"firefox":null}}}];document.write('&lt;script type="text/javascript" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=7e13c32551/cloudflare.min.js"&gt;&lt;'+'\/script&gt;');}}catch(e){};
+//]]&gt;
+</script><script src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=7e13c32551/cloudflare.min.js" type="text/javascript"></script><style type="text/css">.cf-hidden { display: none; } .cf-invisible { visibility: hidden; }</style><script src="https://csgojackpot.com/cdn-cgi/nexp/dok3v=1613a3a185/cloudflare/rocket.js" type="text/javascript" onreadystatechange="CloudFlare.__cfjs_block_d18d30bb6f_readystatechange()" onerror="CloudFlare.__cfjs_block_d18d30bb6f_error()" onload="CloudFlare.__cfjs_block_d18d30bb6f_load()" id="cfjs_block_d18d30bb6f" data-module="cloudflare/rocket"></script>
+<link rel="stylesheet" href="/assets/css/libraries/all.css" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic%7CNova+Square" />
+<!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<script type="text/rocketscript" data-rocketoptimized="true">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-59770024-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+<meta content="width=device-width, user-scalable=no" name="viewport" />
+<link href="/assets/css/application.css?v=4" rel="stylesheet" />
+<link href="/assets/icons/apple-icon-57x57.png" sizes="57x57" rel="apple-touch-icon" />
+<link href="/assets/icons/apple-icon-60x60.png" sizes="60x60" rel="apple-touch-icon" />
+<link href="/assets/icons/apple-icon-72x72.png" sizes="72x72" rel="apple-touch-icon" />
+<link href="/assets/icons/apple-icon-76x76.png" sizes="76x76" rel="apple-touch-icon" />
+<link href="/assets/icons/apple-icon-114x114.png" sizes="114x114" rel="apple-touch-icon" />
+<link href="/assets/icons/apple-icon-120x120.png" sizes="120x120" rel="apple-touch-icon" />
+<link href="/assets/icons/apple-icon-144x144.png" sizes="144x144" rel="apple-touch-icon" />
+<link href="/assets/icons/apple-icon-152x152.png" sizes="152x152" rel="apple-touch-icon" />
+<link href="/assets/icons/apple-icon-180x180.png" sizes="180x180" rel="apple-touch-icon" />
+<link href="/assets/icons/android-icon-192x192.png" sizes="192x192" type="image/png" rel="icon" />
+<link href="/assets/icons/favicon-32x32.png" sizes="32x32" type="image/png" rel="icon" />
+<link href="/assets/icons/favicon-96x96.png" sizes="96x96" type="image/png" rel="icon" />
+<link href="/assets/icons/favicon-16x16.png" sizes="16x16" type="image/png" rel="icon" />
+<link href="/assets/icons/manifest.json" rel="manifest" />
+<meta content="#ffffff" name="msapplication-TileColor" />
+<meta content="/assets/icons/ms-icon-144x144.png" name="msapplication-TileImage" />
+<meta content="#ffffff" name="theme-color" />
+<script type="text/javascript">
+/* &lt;![CDATA[ */
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-59770024-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+(function(b){(function(a){"__CF"in b&amp;&amp;"DJS"in b.__CF?b.__CF.DJS.push(a):"addEventListener"in b?b.addEventListener("load",a,!1):b.attachEvent("onload",a)})(function(){"FB"in b&amp;&amp;"Event"in FB&amp;&amp;"subscribe"in FB.Event&amp;&amp;(FB.Event.subscribe("edge.create",function(a){_gaq.push(["_trackSocial","facebook","like",a])}),FB.Event.subscribe("edge.remove",function(a){_gaq.push(["_trackSocial","facebook","unlike",a])}),FB.Event.subscribe("message.send",function(a){_gaq.push(["_trackSocial","facebook","send",a])}));"twttr"in b&amp;&amp;"events"in twttr&amp;&amp;"bind"in twttr.events&amp;&amp;twttr.events.bind("tweet",function(a){if(a){var b;if(a.target&amp;&amp;a.target.nodeName=="IFRAME")a:{if(a=a.target.src){a=a.split("#")[0].match(/[^?=&amp;]+=([^&amp;]*)?/g);b=0;for(var c;c=a[b];++b)if(c.indexOf("url")===0){b=unescape(c.split("=")[1]);break a}}b=void 0}_gaq.push(["_trackSocial","twitter","tweet",b])}})})})(window);
+/* ]]&gt; */
+</script>
+</head>
+<body><script type="text/javascript">
+//&lt;![CDATA[
+try{(function(a){var b="https://",c="csgojackpot.com",d="/cdn-cgi/cl/",e="img.gif",f=new a;f.src=[b,c,d,e].join("")})(Image)}catch(e){}
+//]]&gt;
+</script>
+<div class="page-wrapper">
+ 
+<nav class="navbar navbar-default navbar-fixed-top">
+<div class="container">
+<div class="navbar-header page-scroll">
+<button aria-controls="navbar" aria-expanded="false" data-target="#navbar" data-toggle="collapse" class="navbar-toggle collapsed" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a href="/" class="navbar-brand"><img class="logo" src="/assets/img/logo.png" /></a>
+</div>
+<div class="navbar-collapse collapse" id="navbar">
+<ul class="nav navbar-nav pull-right">
+<li><a href="/">Home</a></li>
+<li><a href="/about">About</a></li>
+ 
+<li>
+<a target="_blank" href="http://support.csgojackpot.com/">Support</a>
+</li>
+ 
+<li><a href="/tos">Terms<span class="hide-middle-res"> of Service</span></a></li>
+<li><a class="steam-auth" href="/auth/steam"><img src="https://steamcommunity-a.akamaihd.net/public/images/signinthroughsteam/sits_small.png" /></a></li>
+</ul>
+</div> 
+</div>
+</nav>
+<section>
+<div class="analyst-backlink">
+<a target="_blank" href="http://csgo.steamanalyst.com/?ref=csgojackpot">
+Pricings provided by:<br />
+<img src="assets/img/logo-analyst.gif" />
+</a>
+</div>
+<div class="analyst-backlink opskins">
+<a target="_blank" href="http://opskins.com/?ref=csgojackpot">
+Buy and Sell skins at:<br />
+<img src="assets/img/logo-opskins.png" />
+</a>
+</div>
+<div class="analyst-backlink btcjackpot">
+<a target="_blank" href="http://btc-jackpot.com/?ref=csgojackpot">
+Bitcoin Jackpots at:<br />
+<img src="assets/img/btclogo.png" />
+</a>
+</div>
+<a class="btn btn-danger call-to-action" href="/auth/steam">Login to Deposit</a>
+<div class="container">
+<div class="row">
+<div class="col-md-6 main-feed-area">
+<div class="alert alert-info user-statistics-area">
+You have deposited <b class="user-deposited-total-skins">0 skins</b> on the current round (Probability to win: <b class="user-winning-percentage">0%</b>)<br />
+<div style="font-weight:bold;" class="queue-message">You are not currently standing in queue.</div>
+</div>
+<div class="activity-status" style="height: 392px;"><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3b/3be4c232c6bf9074f3a8accac214537f933aad51.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/profiles/76561198119108862/">#Silverlovers</a> deposited 8 skins (valued at $274.13).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/00/001005462779ac105556dd8cbdc85a94bd0a26a9.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/id/BlackDead666/">♥ Cs-StaraSzkolaPL | BlackDead</a> deposited 10 skins (valued at $168.50).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/85/85d45cae177c9993d0d9eb81291e7dcfbf004c07.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/id/drthunder84/">DrThunder</a> deposited 10 skins (valued at $19.26).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ba/badf25849ad83313b46a8747e33f6938f1c965ef.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/profiles/76561197976386721/">Robb</a> deposited 1 skin (valued at $23.84).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ba/ba8e0344f0d5f37d1f630550ed7f9358ed4e1d5d.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/id/Siatverbal/">Siatverbal</a> deposited 7 skins (valued at $12.80).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/f0/f09fccfa68e4af4c3959c4053100db40eb6d47c2.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/id/PanchzRR/">PanchzRR</a> deposited 4 skins (valued at $13.40).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/64/64adae7b3d605d30a20b4ec5b9f1643e13fa7217.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/id/cursedandroid/">Stannis The Mannis</a> deposited 1 skin (valued at $16.10).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/bc/bc92b5f9bd565876ccd1650696113e1de74f8e64.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/id/Meinhd/">✪ Ryan ✪</a> deposited 10 skins (valued at $11.28).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/09/097f3395e25d36bb5fb82bb818c3605b05c1e475.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/profiles/76561198044038714/">The Real Jash Autism</a> deposited 3 skins (valued at $15.98).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/76/7653b7b548a530e48892d5e4293afee89e2b75da.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/profiles/76561198059591926/">larrygeek</a> deposited 5 skins (valued at $12.67).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/2b/2bb5d77d43e8e8df4075234bf9b6109511b7fa9e.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/id/zedafox/">Zedafox</a> deposited 1 skin (valued at $15.76).</div>
+        </div>
+    </div><div style="opacity: 1;">
+            <div class="activity system-message set-round-hash">
+                <div class="text"><span>Round hash is 42fc72bf7eb9bd2245ed71fe840e9218</span></div>
+            </div>
+        <div class="activity new-round">
+            <div class="text"><span>NEW ROUND</span></div>
+        </div>
+        <div class="activity user-deposit winner">
+                <div class="round-checksum activity">
+                    <div class="text"><span>Winning ticket could be found at 28.01082502119243% with the secret "16c4b1f099" <a href="/provably-fair">(what is this?)</a>.</span></div>
+                </div>
+            <span class="label-winner">WINNER</span>
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/6e/6ebebd241175b3844cdb388217eacdce52bfbb35.jpg" />
+            <div class="text winner">
+                <a target="_blank" href="http://steamcommunity.com/profiles/76561198136108824/">☜☠☞ FreddY ✪</a> won the jackpot valued at $1237.65
+            </div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ec/ec697c71820312974173f1cba6ffb1e1d1a4770d.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/id/bleeend_/">Blend™</a> deposited 7 skins (valued at $533.18).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/4f/4feafcd3098c27d255241b9b2edd9d30292f0b10.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/id/ninja-pirate/">Ninj-</a> deposited 10 skins (valued at $321.50).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/6e/6ebebd241175b3844cdb388217eacdce52bfbb35.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/profiles/76561198136108824/">☜☠☞ FreddY ✪</a> deposited 1 skin (valued at $171.62).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/28/284b678b63757533dfab0d9b4bc5c5c30badfe5b.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/id/MomenTz/">TMomenTzG</a> deposited 6 skins (valued at $43.79).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3b/3b46009e79cd03cfdb9b0de79fa1f317addb42a0.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/id/imluigi1/">Luigi?</a> deposited 10 skins (valued at $19.86).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/bb/bb4ee5db4e95b2f2a98c863c64f48ec4ed426c67.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/id/serdefen/">Serdefen</a> deposited 3 skins (valued at $100.09).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/1e/1ed079d9f580b2760b8ee7089d049d6a43bfad56.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/profiles/76561197965201668/">K E N</a> deposited 10 skins (valued at $26.52).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d0/d0dc1e3332b5c3c049955a96b3ccc240293d2975.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/profiles/76561198040556181/">CoLLaTz</a> deposited 1 skin (valued at $58.49).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0c/0c1c02041dcd1a3d158773fa1ac4c2548d658093.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/id/sigh1984/">SiGh</a> deposited 1 skin (valued at $10.11).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/94/94458e12d97b4cb27e1bf89ae0de3bd1e6d4bc63.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/id/Tzar-3-iX/">♔ ✞ Emp3ror ✞ ♔</a> deposited 10 skins (valued at $17.64).</div>
+        </div>
+    </div><div style="opacity: 1;">
+            <div class="activity system-message set-round-hash">
+                <div class="text"><span>Round hash is 3168f36eb2f12acda59e81594c13ec80</span></div>
+            </div>
+        <div class="activity new-round">
+            <div class="text"><span>NEW ROUND</span></div>
+        </div>
+        <div class="activity user-deposit winner">
+                <div class="round-checksum activity">
+                    <div class="text"><span>Winning ticket could be found at 23.139264388009906% with the secret "14e0f1eb53" <a href="/provably-fair">(what is this?)</a>.</span></div>
+                </div>
+            <span class="label-winner">WINNER</span>
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/1c/1c83504699fdd87f1a11a1bfd799258417b1889a.jpg" />
+            <div class="text winner">
+                <a target="_blank" href="http://steamcommunity.com/id/Sliggyyyy/">Sliggy</a> won the jackpot valued at $2038.96
+            </div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7e/7eb86a98d34da786dc134603a248c7169791a9fa.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/profiles/76561198066837045/">halligalli666</a> deposited 9 skins (valued at $21.68).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b9/b9ced06f5fa6de1e564896ea1a516a01caeee602.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/id/Cethium/">Steph</a> deposited 10 skins (valued at $1567.87).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/6c/6c6c7b183a49af265ccec7664d87de1deb0c0bf9.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/id/cyngee/">cyngee</a> deposited 10 skins (valued at $10.40).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/1c/1c83504699fdd87f1a11a1bfd799258417b1889a.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/id/Sliggyyyy/">Sliggy</a> deposited 10 skins (valued at $392.14).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/70/7063d3a72b4150f087a23310dbf99ec0ca90566c.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/profiles/76561197961532239/">ProHack</a> deposited 1 skin (valued at $11.69).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/28/284b678b63757533dfab0d9b4bc5c5c30badfe5b.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/id/MomenTz/">TMomenTzG</a> deposited 4 skins (valued at $17.65).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ba/badf25849ad83313b46a8747e33f6938f1c965ef.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/profiles/76561197976386721/">Robb</a> deposited 4 skins (valued at $13.57).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/2b/2bb5d77d43e8e8df4075234bf9b6109511b7fa9e.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/id/zedafox/">Zedafox</a> deposited 5 skins (valued at $22.89).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d7/d7fba61f8fa4ea185dc51aeed79603fcf1856bb1.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/profiles/76561198050270441/">SharkPajamas</a> deposited 3 skins (valued at $11.57).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/10/10adafdddae70dfb57a3a7515ef6272564d32479.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/id/united-extreme/">silver777</a> deposited 10 skins (valued at $16.65).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7e/7eb86a98d34da786dc134603a248c7169791a9fa.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/profiles/76561198066837045/">halligalli666</a> deposited 1 skin (valued at $60.15).</div>
+        </div>
+    </div><div style="opacity: 1;">
+            <div class="activity system-message set-round-hash">
+                <div class="text"><span>Round hash is cba58971ca9bcc04bccb52c09600c287</span></div>
+            </div>
+        <div class="activity new-round">
+            <div class="text"><span>NEW ROUND</span></div>
+        </div>
+        <div class="activity user-deposit winner">
+                <div class="round-checksum activity">
+                    <div class="text"><span>Winning ticket could be found at 21.97022319305688% with the secret "15cb71f26f" <a href="/provably-fair">(what is this?)</a>.</span></div>
+                </div>
+            <span class="label-winner">WINNER</span>
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/10/10a2305f4d7a96f9cf23136de1b2e4a38699d1dd.jpg" />
+            <div class="text winner">
+                <a target="_blank" href="http://steamcommunity.com/profiles/76561198124170460/">Ph1L</a> won the jackpot valued at $1117.67
+            </div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/57/57cd9497ad74fd3fa286cc5713a4616a4971662d.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/id/SpauN/">Mr^SpauN</a> deposited 10 skins (valued at $546.77).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/dd/ddfd1cd493f38fade2642e149487729973a7ecf3.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/id/Babbon/">BabboN</a> deposited 10 skins (valued at $10.17).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/10/10a2305f4d7a96f9cf23136de1b2e4a38699d1dd.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/profiles/76561198124170460/">Ph1L</a> deposited 5 skins (valued at $375.73).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/eb/eb89dcaad32cc26b3be6e63177faffc06c494f82.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/profiles/76561198146144300/">NoNoNoNoNo ✪</a> deposited 1 skin (valued at $71.12).</div>
+        </div>
+    </div><div style="opacity: 1;">
+        <div class="activity user-deposit">
+            <img class="image" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/28/284b678b63757533dfab0d9b4bc5c5c30badfe5b.jpg" />
+            <div class="text"><a target="_blank" href="http://steamcommunity.com/id/MomenTz/">TMomenTzG</a> deposited 8 skins (valued at $19.19).</div>
+        </div>
+    </div></div>
+</div>
+<div class="col-md-6 skins-knob-area">
+<div class="current-pot-skins"><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/996125525/150fx125f" />    <div class="price"><b>$272.15</b><span>★ Butterfly Knife | Fade (Factory New)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/885866102/150fx125f" />    <div class="price"><b>$58.49</b><span>AWP | Asiimov (Field-Tested)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/720521071/150fx125f" />    <div class="price"><b>$55.71</b><span>★ Flip Knife | Ultraviolet (Battle-Scarred)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/310780982/150fx125f" />    <div class="price"><b>$46.38</b><span>AK-47 | Case Hardened (Factory New)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/310779955/150fx125f" />    <div class="price"><b>$23.84</b><span>AK-47 | Case Hardened (Field-Tested)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/310786959/150fx125f" />    <div class="price"><b>$18.68</b><span>StatTrak™ M4A1-S | Bright Water (Minimal Wear)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/1019475026/150fx125f" />    <div class="price"><b>$16.10</b><span>AWP | Man-o'-war (Field-Tested)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/638248794/150fx125f" />    <div class="price"><b>$15.76</b><span>AK-47 | Wasteland Rebel (Battle-Scarred)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/549076412/150fx125f" />    <div class="price"><b>$11.49</b><span>AWP | Redline (Minimal Wear)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/600224864/150fx125f" />    <div class="price"><b>$10.92</b><span>P90 | Asiimov (Minimal Wear)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/527744174/150fx125f" />    <div class="price"><b>$7.83</b><span>StatTrak™ P2000 | Corticera (Field-Tested)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/310778841/150fx125f" />    <div class="price"><b>$6.85</b><span>P250 | Splash (Factory New)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/469458385/150fx125f" />    <div class="price"><b>$4.21</b><span>SCAR-20 | Cyrex (Factory New)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/778384821/150fx125f" />    <div class="price"><b>$3.58</b><span>Sticker | Witch</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/937244168/150fx125f" />    <div class="price"><b>$3.32</b><span>AWP | Worm God (Minimal Wear)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/350505024/150fx125f" />    <div class="price"><b>$2.55</b><span>StatTrak™ CZ75-Auto | Crimson Web (Minimal Wear)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/520029856/150fx125f" />    <div class="price"><b>$2.51</b><span>Five-SeveN | Fowl Play (Field-Tested)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/645338593/150fx125f" />    <div class="price"><b>$2.08</b><span>Sticker | Natus Vincere (Foil) | DreamHack 2014</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/360475072/150fx125f" />    <div class="price"><b>$1.94</b><span>AUG | Chameleon (Minimal Wear)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/645340924/150fx125f" />    <div class="price"><b>$1.65</b><span>Sticker | Team Dignitas (Foil) | DreamHack 2014</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/645324161/150fx125f" />    <div class="price"><b>$1.58</b><span>Sticker | Ninjas in Pyjamas (Holo) | DreamHack 2014</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/720324464/150fx125f" />    <div class="price"><b>$1.55</b><span>StatTrak™ Glock-18 | Catacombs (Factory New)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/645332746/150fx125f" />    <div class="price"><b>$1.37</b><span>Sticker | Team Dignitas (Holo) | DreamHack 2014</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/645332746/150fx125f" />    <div class="price"><b>$1.37</b><span>Sticker | Team Dignitas (Holo) | DreamHack 2014</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/753337229/150fx125f" />    <div class="price"><b>$1.18</b><span>Sticker | Queen Of Pain</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/549054327/150fx125f" />    <div class="price"><b>$1.04</b><span>ESL One Cologne 2014 Legends</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/549054327/150fx125f" />    <div class="price"><b>$1.04</b><span>ESL One Cologne 2014 Legends</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/469454852/150fx125f" />    <div class="price"><b>$0.89</b><span>AUG | Torque (Factory New)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/1011934811/150fx125f" />    <div class="price"><b>$0.85</b><span>MP9 | Ruby Poison Dart (Field-Tested)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/926978479/150fx125f" />    <div class="price"><b>$0.72</b><span>Chroma 2 Case</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/310777857/150fx125f" />    <div class="price"><b>$0.61</b><span>Glock-18 | Candy Apple (Minimal Wear)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/469438644/150fx125f" />    <div class="price"><b>$0.60</b><span>AUG | Torque (Minimal Wear)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/527649477/150fx125f" />    <div class="price"><b>$0.58</b><span>StatTrak™ XM1014 | Red Python (Minimal Wear)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/638242572/150fx125f" />    <div class="price"><b>$0.52</b><span>Glock-18 | Grinder (Minimal Wear)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/360458273/150fx125f" />    <div class="price"><b>$0.45</b><span>MAC-10 | Heat (Field-Tested)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/937251515/150fx125f" />    <div class="price"><b>$0.44</b><span>CZ75-Auto | Pole Position (Battle-Scarred)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/720301092/150fx125f" />    <div class="price"><b>$0.38</b><span>Dual Berettas | Urban Shock (Field-Tested)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/520027449/150fx125f" />    <div class="price"><b>$0.33</b><span>StatTrak™ Negev | Desert-Strike (Factory New)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/360480959/150fx125f" />    <div class="price"><b>$0.28</b><span>StatTrak™ UMP-45 | Corporal (Minimal Wear)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/720347453/150fx125f" />    <div class="price"><b>$0.24</b><span>StatTrak™ M249 | System Lock (Well-Worn)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/575559536/150fx125f" />    <div class="price"><b>$0.23</b><span>Negev | Nuclear Waste (Field-Tested)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/310776726/150fx125f" />    <div class="price"><b>$0.19</b><span>M4A1-S | Boreal Forest (Field-Tested)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/720282219/150fx125f" />    <div class="price"><b>$0.17</b><span>Glock-18 | Catacombs (Factory New)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/310780496/150fx125f" />    <div class="price"><b>$0.16</b><span>USP-S | Night Ops (Field-Tested)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/520025987/150fx125f" />    <div class="price"><b>$0.13</b><span>SSG 08 | Abyss (Minimal Wear)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/720281711/150fx125f" />    <div class="price"><b>$0.09</b><span>Glock-18 | Catacombs (Field-Tested)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/720281711/150fx125f" />    <div class="price"><b>$0.09</b><span>Glock-18 | Catacombs (Field-Tested)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/310778798/150fx125f" />    <div class="price"><b>$0.06</b><span>Desert Eagle | Mudder (Well-Worn)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/310776767/150fx125f" />    <div class="price"><b>$0.06</b><span>SCAR-20 | Carbon Fiber (Factory New)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/384801319/150fx125f" />    <div class="price"><b>$0.05</b><span>Operation Phoenix Weapon Case</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/384801319/150fx125f" />    <div class="price"><b>$0.05</b><span>Operation Phoenix Weapon Case</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/384801319/150fx125f" />    <div class="price"><b>$0.05</b><span>Operation Phoenix Weapon Case</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/310777986/150fx125f" />    <div class="price"><b>$0.05</b><span>PP-Bizon | Night Ops (Minimal Wear)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/310781213/150fx125f" />    <div class="price"><b>$0.05</b><span>Dual Berettas | Stained (Battle-Scarred)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/310778538/150fx125f" />    <div class="price"><b>$0.05</b><span>M249 | Gator Mesh (Field-Tested)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/310777133/150fx125f" />    <div class="price"><b>$0.03</b><span>Dual Berettas | Contractor (Well-Worn)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/310776784/150fx125f" />    <div class="price"><b>$0.03</b><span>Five-SeveN | Forest Night (Field-Tested)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/310776672/150fx125f" />    <div class="price"><b>$0.03</b><span>SCAR-20 | Sand Mesh (Field-Tested)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/310777246/150fx125f" />    <div class="price"><b>$0.03</b><span>SG 553 | Waves Perforated (Field-Tested)</span></div></div><div class="skin ">    <img src="https://steamcommunity-a.akamaihd.net/economy/image/class/730/310778895/150fx125f" />    <div class="price"><b>$0.03</b><span>FAMAS | Colony (Well-Worn)</span></div></div></div>
+<div class="knob-holder" style="width: 426px; margin-top: -213px;">
+<div style="display: inline; width: 426px; height: 426px;"><canvas width="426" height="426"></canvas><input value="0" data-readonly="true" class="knob" readonly="readonly" style="width: 217px; height: 142px; position: absolute; vertical-align: middle; margin-top: 142px; margin-left: -321px; border: 0px none; background: transparent none repeat scroll 0% 0%; font: bold 106px Arial; text-align: center; color: rgb(235, 75, 78); padding: 0px;" /><div class="total-pot-knob" style="font-size: 30.2857px; color: rgb(255, 255, 255); margin-top: 53px;"><div class="background">~$554</div></div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="chat-area">
+<div class="chat-container">
+<div class="messages">
+</div>
+<div class="send">
+<textarea class="textarea" id="chatMessage" name="chatMessage" type="text"></textarea>
+<input type="button" value="Send" class="btn btn-xs btn-success btn-send-chat" />
+</div>
+</div>
+<div class="close-chat-button btn btn-warning">X</div>
+</div>
+<div class="chat-button btn btn-info">Chat</div>
+</section>
+<footer>
+Copyright © CSGOJackpot.com 2015 - <a target="_blank" href="https://steampowered.com">Powered by Steam</a> - <a target="_blank" href="https://www.facebook.com/csgojackpotdotcom">Facebook</a> - <a target="_blank" href="http://reddit.com/r/CSGOJackpot/">Reddit</a> - <a target="_blank" href="https://twitter.com/CSGOJackpotcom">Twitter</a> - <a target="_blank" href="/responsible-gambling">Responsible Gambling</a> - <a target="_blank" href="/provably-fair">Provably Fair</a>
+</footer>
+</div>
+<div class="modal fade modal-message">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button aria-label="Close" data-dismiss="modal" class="close" type="button"><span aria-hidden="true">×</span></button>
+<h4 class="modal-title"></h4>
+</div>
+<div class="modal-body">
+</div>
+<div class="modal-footer">
+<button data-dismiss="modal" class="btn btn-default" type="button">Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade modal-confirm-deposit">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button aria-label="Close" data-dismiss="modal" class="close" type="button"><span aria-hidden="true">×</span></button>
+<h4 class="modal-title">Deposit Received</h4>
+</div>
+<div class="modal-body">
+<p>You deposited <span class="number-skins"></span> skins and they were evaluated at $<span class="evaluation-skins"></span></p>
+<p>You've <span class="missing-seconds"></span> seconds to reply.</p>
+<p><input type="checkbox" value="1" class="accept-terms" /> I agree with the <a target="_blank" href="/tos">TOS</a>, with the accept the evaluation and confirm I'm at least 18 years old.</p>
+</div>
+<div class="modal-footer">
+<div class="analyst-modal-backlink">
+<a target="_blank" href="http://csgo.steamanalyst.com/?ref=csgojackpot">
+Pricings provided by:<br />
+<img src="/assets/img/logo-analyst-white.png" />
+</a>
+</div>
+<button data-dismiss="modal" class="btn btn-default decline-trade" type="button">Cancel Trade Request</button>
+<button class="btn btn-primary accept-trade" type="button">Enter the Queue</button>
+</div>
+</div>
+</div>
+</div>
+<script type="text/x-handlebars-template" id="action-template-deposit">
+        &lt;div class="activity user-deposit"&gt;
+            &lt;img src="{{user.avatar}}" class="image" /&gt;
+            &lt;div class="text"&gt;&lt;a href="{{user.profileurl}}" target="_blank"&gt;{{user.personaname}}&lt;/a&gt; deposited {{number}} skin{{s}} (valued at ${{price}}).&lt;/div&gt;
+        &lt;/div&gt;
+    </script>
+<script type="text/x-handlebars-template" id="action-template-won">
+        {{#if goldenHash}}
+            &lt;div class="activity system-message set-round-hash"&gt;
+                &lt;div class="text"&gt;&lt;span&gt;Round hash is {{goldenHash}}&lt;/span&gt;&lt;/div&gt;
+            &lt;/div&gt;
+        {{/if}}
+        &lt;div class="activity new-round"&gt;
+            &lt;div class="text"&gt;&lt;span&gt;NEW ROUND&lt;/span&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="activity user-deposit winner"&gt;
+            {{#if previousChecksum.winner}}
+                &lt;div class="round-checksum activity"&gt;
+                    &lt;div class="text"&gt;&lt;span&gt;Winning ticket could be found at {{previousChecksum.winner}}% with the secret "{{previousChecksum.secretHash}}" &lt;a href="/provably-fair"&gt;(what is this?)&lt;/a&gt;.&lt;/span&gt;&lt;/div&gt;
+                &lt;/div&gt;
+            {{/if}}
+            &lt;span class="label-winner"&gt;WINNER&lt;/span&gt;
+            &lt;img src="{{user.avatar}}" class="image" /&gt;
+            &lt;div class="text winner"&gt;
+                &lt;a href="{{user.profileurl}}" target="_blank"&gt;{{user.personaname}}&lt;/a&gt; won the jackpot valued at ${{price}}
+            &lt;/div&gt;
+        &lt;/div&gt;
+    </script>
+<script type="text/x-handlebars-template" id="action-template-systemNotification">
+        &lt;div class="activity system-message"&gt;
+            &lt;div class="alert alert-{{alert}}"&gt;
+                {{{message}}}
+            &lt;/div&gt;
+        &lt;/div&gt;
+    </script>
+<script type="text/x-handlebars-template" id="action-template-chat">
+        &lt;div class="message"&gt;
+            &lt;a href="{{user.profile}}" target="_blank"&gt;
+                &lt;img src="{{user.avatar}}" width="10px"&gt; {{user.name}}:&lt;/a&gt;
+            &lt;span&gt;{{message}}&lt;/span&gt;
+        &lt;/div&gt;
+    </script>
+<script type="text/rocketscript" data-rocketoptimized="true">
+        window.config = {
+            roundLimit: 50,
+            userSession: null,
+            userId: null
+        };
+    </script>
+<script type="text/rocketscript" data-rocketsrc="/assets/js/libraries/all.js" data-rocketoptimized="true"></script>
+<script type="text/rocketscript" data-rocketsrc="/assets/js/application.js?v=8" data-rocketoptimized="true"></script><script type="text/javascript" src="https://csgojackpot.com/assets/js/application.js?v=8"></script>
+
+</body></html>

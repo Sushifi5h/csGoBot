@@ -1,0 +1,19 @@
+from bs4 import BeautifulSoup
+
+html_file = open("a.txt", "r")
+
+
+soup = BeautifulSoup(html_file)
+
+
+
+
+
+for i in soup.findAll('div', style="opacity: 1;"):
+	# class_1 = i.div['class'][1]
+	# img_1 = i.img['class'][0]
+	# if class_1 == 'user-deposit' and img_1 == 'image' :
+	for div in i.findAll('div', attrs ={'class': 'text'}):
+		try: print "Name: %s (%s) (%s)" % (div.find('a').contents[0].encode('utf8'), div.find('a')['href'].encode('utf8'), div.contents[1].encode('utf8'))
+		#print div.find('a')['href'], div.find('a').contents[0].encode('utf8'), div.contents[1]
+		except: pass

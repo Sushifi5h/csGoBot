@@ -1,0 +1,3 @@
+['', 'Player', ' ', 'eMbraceMN', ' ', 'http://steamcommunity.com/profiles/76561197961584346/', ' ', '126.39', ' ', '1', ' \n']
+['', 'Player', ' ', 'Yerv', ' ', 'http://steamcommunity.com/profiles/76561198033040701/', ' ', '1824.04', ' ', '1', ' \n']
+['', 'Player', ' ', '[GC] ChunkyLlama13', ' ', 'http://steamcommunity.com/id/ChunkyLlama13/', ' ', '124.70', ' ', '1', ' \n']
